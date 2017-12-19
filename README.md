@@ -2,6 +2,7 @@
 
 A simple Progressive Image Loader for React Native
 
+[![Total Downloads](https://img.shields.io/npm/dt/react-native-simple-progressive-image.svg?style=flat-square)](https://www.npmjs.com/package/react-native-simple-progressive-image) [![License](https://img.shields.io/npm/l/react-native-simple-progressive-image.svg?style=flat-square)](LICENSE)
 
 [<img src="https://i.imgur.com/DvwQx7p.gif" width="350">](https://i.imgur.com/DvwQx7p.gif)
 
@@ -13,7 +14,6 @@ Other packages use absolute positioning which can lead to malfunctions
 
 ```
 npm install --save react-native-simple-progressive-image
-
 ```
 
 ## Example

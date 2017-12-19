@@ -1,6 +1,6 @@
 {
   "name": "simple-progressive-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Progressive Image library for React Native",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,10 @@
   ],
   "author": "Matei Oprea",
   "license": "MIT",
+	"homepage": "https://github.com/mateioprea/react-native-simple-progressive-image#readme",
+	"bugs": {
+		"url": "https://github.com/mateioprea/react-native-simple-progressive-image/issues"
+	},
   "dependencies": {
     "prop-types": "^15.6.0"
   }
