@@ -13,13 +13,15 @@ Other packages use absolute positioning which can lead to malfunctions
 ## Install 
 
 ```
-npm install --save react-native-simple-progressive-image
+npm install --save simple-progressive-image
 ```
 
 ## Example
 
 ```
-<SimpleProgressiveImage
+import ProgressiveImage from 'simple-progressive-image';
+
+<ProgressiveImage
 	placeholderSource={{uri: "https://i.imgur.com/EMaLg1x.jpg"}}
 	imageSource={{uri: "https://i.imgur.com/580JwuJ.jpg"}}
 	resizeMode={"contain"}
